@@ -1,0 +1,27 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: getFullInfo()
+- text: getTax()
+- text: getFullFurnitureInfo()
+- text: getFurnitureInfo()
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7889#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 07 Sep 2022 12:47:18 UTC
+record: -1
+selected_options:
+- 1
+- 2
+local_check: false

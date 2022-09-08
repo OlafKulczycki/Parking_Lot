@@ -1,0 +1,28 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: open
+- text: super
+- text: override
+- text: public
+- text: inherit
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7885#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 07 Sep 2022 12:47:46 UTC
+record: -1
+selected_options:
+- 0
+- 2
+local_check: false
